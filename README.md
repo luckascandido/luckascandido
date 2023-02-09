@@ -1,10 +1,13 @@
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Ol%C3%A1++eu+sou+Luckas+C%C3%A2ndido%2C;Seja+Bem+Vindo+ao+meu+perfil!)](https://git.io/typing-svg)
- 
+   
+
      Desenvolvedor web Full-Stack.👨‍💻 
      Sou Formado em Engenharia da Computação. 👨‍🎓
      Atualmente estou Estudando TypeScript e desenvolvendo meus conhecimentos em Arquiteturas de Software e Gestão de Regras de Negócio. 🧠
-   <div>
-   <table border="1">
+
+   <div align="center">
+   <table  border="1">
    <tr>
        <th>Linguagens De Programação:</th>
        <td>
@@ -41,5 +44,10 @@
        </td>
    </tr>
    </table>
-   <div>
-> <cite>- Eagle Tecnologia</cite>
+   </div>
+   <div >
+    <a href="https://github.com/luckascandido">
+     <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckascandido&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api?username=luckascandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   </div>
+    > <i> Perder tempo desagrada mais a quem mais conhece o seu valor. </i> <cite><strong>Dante Alighieri</strong></cite>
