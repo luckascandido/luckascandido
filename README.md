@@ -47,7 +47,7 @@
    </div>
    <div >
     <a href="https://github.com/luckascandido">
-     <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckascandido&layout=compact&langs_count=7&theme=dracula"/>
+     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckascandido&layout=compact&langs_count=7&theme=dracula"/>
     <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api?username=luckascandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    </div>
     > <i> Perder tempo desagrada mais a quem mais conhece o seu valor. </i> <cite><strong>Dante Alighieri</strong></cite>
