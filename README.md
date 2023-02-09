@@ -52,4 +52,4 @@
     <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api?username=luckascandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    </div>
     > <i> Perder tempo desagrada mais a quem mais conhece o seu valor. </i> <cite><strong>Dante Alighieri</strong></cite>
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luckascandido/luckascandido/blob/output/github-contribution-grid-snake.svg)
