@@ -51,7 +51,8 @@
     <img width="48%"  height="180em" src="https://github-readme-stats.vercel.app/api?username=luckascandido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    </div>
    <div>
-     <img src="octocat-1675909695678.png"/>
+     <img src="octocat-1675909695678.png"/ width="48%" >
+     <br>
     > <i> Perder tempo desagrada mais a quem mais conhece o seu valor. </i> <cite><strong>Dante Alighieri</strong></cite>
    </div>
       
