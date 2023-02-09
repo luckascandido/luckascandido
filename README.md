@@ -55,3 +55,4 @@
     > <i> Perder tempo desagrada mais a quem mais conhece o seu valor. </i> <cite><strong>Dante Alighieri</strong></cite>
    </div>
    
+   ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
