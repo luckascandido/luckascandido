@@ -7,8 +7,9 @@
      Atualmente estou Estudando TypeScript e desenvolvendo meus conhecimentos em Arquiteturas de Software e Gestão de Regras de Negócio. 🧠
 
    <div align="center">
-   <table  border="1">
-   <tr>
+   <h1>Habilidades</h1>
+   <table  border="1">   
+   <tr> 
        <th>Linguagens De Programação:</th>
        <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40/>
